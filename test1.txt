@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 4C20-7C8F
+
+ Directory of C:\Users\swati singh\Desktop\GitDemo1
+
+02/21/2020  02:32 PM    <DIR>          .
+02/21/2020  02:32 PM    <DIR>          ..
+02/21/2020  02:32 PM               161 test1.txt
+               1 File(s)            161 bytes
+               2 Dir(s)  179,542,081,536 bytes free
